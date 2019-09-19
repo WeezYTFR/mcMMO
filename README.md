@@ -1,5 +1,3 @@
-# mcMMO
-Port of mcMMO-Dev's [mcMMO](https://github.com/mcMMO-Dev/mcMMO) for PocketMine-MP.<br>
-This plugin is still in development, feel free to report bugs.<br>
+This plugin was rightfully created by Muqsit. I have updated it to function.
 
-Download .phar files from [poggit](https://poggit.pmmp.io/ci/Muqsit/mcMMO).
+Discord: iQuackerzMC#6666
